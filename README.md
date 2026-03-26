@@ -1,2 +1,4 @@
-# Python_journey-
-from zero to expert in python 
+# Python Journey — Data Engineering
+
+Learning Python for Data Engineering.
+Following Data With Baara Python Course.
