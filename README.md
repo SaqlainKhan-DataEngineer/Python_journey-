@@ -1,4 +1,18 @@
-# Python Journey — Data Engineering
+# 🐍 Python Journey — Data Engineering
 
 Learning Python for Data Engineering.
-Following Data With Baara Python Course.
+
+## 📁 Topics Covered
+
+| Topic | Description |
+|-------|-------------|
+| [Chapter 1 - Fundamentals](./chapter-1/) | Variables, Print, Input, Data Types |
+| [Chapter 2 - Strings](./chapter-2/) | Methods, Slicing, Cleaning, Challenges |
+
+## 🛠️ Tools Used
+- Python 3
+- VS Code
+
+## 👤 About
+Aspiring Data Engineer — learning 
+Python for real-world data pipelines.
