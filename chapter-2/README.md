@@ -33,7 +33,15 @@ Solved 2 ways — Slicing + Split()
 **Output:** `004917612345678`
 
 ## 📸 Output Screenshots
-[]
+
+### Challenge 1 — Messy String
+![Challenge 1 Output](./Screenshot%202026-03-30%20114756.png)
+
+### Challenge 2 — Employee Parser
+![Challenge 2 Output](./Screenshot%202026-03-30%20114809.png)
+
+### Challenge 3 — Phone Number
+![Challenge 3 Output](./Screenshot%202026-03-30%20114852.png)
 
 ## 💡 Key Learning
 String cleaning is used in every 
