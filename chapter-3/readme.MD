@@ -27,8 +27,7 @@ num=(random.randint(1,100))
 print(num%2)  
 
 ## 📸 Output Screenshots
-[chapter-3/Screenshot%2026-04-02%152141.png]
-
+![Challenge  Output](./Screenshot%2026-04-02%152141.png)
 ## 💡 Key Learning
 Modulus operator `%` is used in 
 data pipelines for batch processing —
