@@ -27,7 +27,7 @@ num=(random.randint(1,100))
 print(num%2)  
 
 ## 📸 Output Screenshots
-![Challenge 1 Output](./Screenshot%202026-04-02%20152141.png)
+![Challenge Output](./Screenshot%202026-04-02%20152141.png)
 
 ## 💡 Key Learning
 Modulus operator `%` is used in 
